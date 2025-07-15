@@ -64,7 +64,7 @@ Before running, FoodFavor, you will need an OpenAI API key if the project utiliz
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Adity20/FoodFavor.git
+   git clone https://github.com/ShantanuPoswal/FoodFavor.git
    cd FoodFavor
    ```
 
